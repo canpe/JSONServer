@@ -2,53 +2,53 @@
   "stations": [
     {
       "name":"Norra Gubberogatan, Göteborg", 
-      "id": 9022014005040002, 
-      "lat": 57.709219, 
-      "lon": 11.998334
+      "id": "9022014005040002", 
+      "lat": "57.709219", 
+      "lon": "11.998334"
     },
     {
       "name":"Centralstationen, Göteborg", 
-      "id": 9021014001950000, 
-      "lat": 57.707898, 
-      "lon": 11.973740 
+      "id": "9021014001950000", 
+      "lat": "57.707898", 
+      "lon": "11.973740"
     },
     {
       "name":"Valand, Göteborg", 
-      "id": 9021014007220000, 
-      "lat": 57.700329, 
-      "lon": 11.974522 
+      "id": "9021014007220000", 
+      "lat": "57.700329", 
+      "lon": "11.974522" 
     },
     {
       "name":"Frölunda torg, Göteborg", 
-      "id": 9021014002530000, 
-      "lat": 57.652209, 
-      "lon": 111.909799
+      "id": "9021014002530000", 
+      "lat": "57.652209", 
+      "lon": "111.909799"
     }
   ],
   "employees": [
     {
       "name": "John Middleman",
       "department": "Sales",
-      "age": 32,
-      "vacation": 21
+      "age": "32",
+      "vacation": "21"
     },
     {
       "name": "Mary Kingston",
       "department": "Sales",
-      "age": 23,
-      "vacation": 6
+      "age": "23",
+      "vacation": "6"
     },
     {
       "name": "Terry Linnen",
       "department": "ITS",
-      "age": 28,
-      "vacation": 0
+      "age": "28",
+      "vacation": "0"
     },
     {
       "name": "Li Young",
       "department": "Software",
-      "age": 24,
-      "vacation": 3
+      "age": "24",
+      "vacation": "3"
     }
   ]
 }
