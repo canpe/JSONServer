@@ -51,6 +51,56 @@
       "vacation": "3"
     }
   ],
+  "employees2": [
+    {
+      "Id": "1001"
+      "FirstName": "Tome",
+      "LastName": "Haiden",
+      "Gender": "M",
+      "Age": "23",
+      "Job": "Salesman"
+    },
+    {
+      "Id": "1002"
+      "FirstName": "Bruce",
+      "LastName": "Waterloo",
+      "Gender": "M",
+      "Age": "36",
+      "Job": "IT Technican"
+    },
+    {
+      "Id": "1003"
+      "FirstName": "Sue",
+      "LastName": "Gatenholm",
+      "Gender": "F",
+      "Age": "40",
+      "Job": "Sales Manager"
+    },
+    {
+      "Id": "1004"
+      "FirstName": "Michael",
+      "LastName": "Branson",
+      "Gender": "M",
+      "Age": "23",
+      "Job": "IT Technican"
+    },
+    {
+      "Id": "1005"
+      "FirstName": "Sally",
+      "LastName": "Mayweather",
+      "Gender": "F",
+      "Age": "19",
+      "Job": "Assistant"
+    },
+    {
+      "Id": "1006"
+      "FirstName": "Lucy",
+      "LastName": "Leach",
+      "Gender": "F",
+      "Age": "26",
+      "Job": "Designer"
+    }
+  ],
   "cars": [
     {
       "name": "Ferrari",
