@@ -54,11 +54,11 @@
   "cars": [
     {
       "name": "Ferrari",
-      "url": "https://static.ferrarinetwork.ferrari.com/images/ferrari-portofino-gate-2_mnCgpaet.jpg"
+      "url1": "https://static.ferrarinetwork.ferrari.com/images/ferrari-portofino-gate-2_mnCgpaet.jpg"
     },
     {
       "name": "Porsche",
-      "url": "http://www.porsche.se/globalassets/modeller/911/911-carrera-4-gts/menu-911-carrera-4-gts.jpg"
+      "url1": "http://www.porsche.se/globalassets/modeller/911/911-carrera-4-gts/menu-911-carrera-4-gts.jpg"
     },
     {
       "name": "Aston Martin",
