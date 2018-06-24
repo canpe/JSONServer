@@ -127,7 +127,7 @@
       "url": "https://media.ed.edmunds-media.com/audi/r8/2017/ot/2017_audi_r8_LIFE1_ot_1102166_1280.jpg"
     }
   ],
-  "results": [
+  "results1": [
     { "Id":1, "ScoreA": 5, "ScoreB": 0 } ,        
     { "Id":2, "ScoreA": 0, "ScoreB": 1 } ,
     { "Id":3, "ScoreA": 0, "ScoreB": 1 } ,
@@ -143,7 +143,9 @@
     { "Id":13, "ScoreA": 3, "ScoreB": 0 } ,
     { "Id":14, "ScoreA": 1, "ScoreB": 2 } ,
     { "Id":15, "ScoreA": 1, "ScoreB": 2 } ,
-    { "Id":16, "ScoreA": 1, "ScoreB": 2 } ,
+    { "Id":16, "ScoreA": 1, "ScoreB": 2 } 
+  ],
+  "results2": [
     { "Id":17, "ScoreA": 3, "ScoreB": 1 } ,
     { "Id":18, "ScoreA": 1, "ScoreB": 0 } ,
     { "Id":19, "ScoreA": 1, "ScoreB": 0 } ,
@@ -160,5 +162,7 @@
     { "Id":30, "ScoreA": 6, "ScoreB": 1 } ,
     { "Id":31, "ScoreA": 2, "ScoreB": 2 } ,
     { "Id":32, "ScoreA": 0, "ScoreB": 3 } 
+  ],
+  "results3": [
   ]
 }
